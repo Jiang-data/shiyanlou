@@ -25,6 +25,19 @@
         <mxCell id="fiskgBd-r-F8fjke0EwF-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="电箱" vertex="1">
           <mxGeometry height="21" width="36" x="319" y="387" as="geometry" />
         </mxCell>
+        <mxCell id="ErjaIGNpMBc5RaZ2G44M-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="420.75" y="502" as="sourcePoint" />
+            <mxPoint x="362.754122202256" y="502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ErjaIGNpMBc5RaZ2G44M-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="352" y="656.5" as="sourcePoint" />
+            <mxPoint x="352" y="606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
